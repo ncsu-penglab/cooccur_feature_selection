@@ -8,9 +8,9 @@
 		## number of possible cooccurences is the total number of cells 
 		nsite <- ncol(mtx)
 		all.probs <- phyper(q=0:min_inc, 
-							m=min_inc, 
-							n=(nsite - min_inc), 
-							k=max_inc)
+				m=min_inc, 
+				n=(nsite - min_inc), 
+				k=max_inc)
 		
 		psite <- as.numeric(nsite + 1)
 		
