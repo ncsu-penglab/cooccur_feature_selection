@@ -1,5 +1,5 @@
-# cooccurrence-feature-selection
-
+# README
+This package provides a feature selection method for sparse scRNA-seq data.
 # News
 
 # Requirements
