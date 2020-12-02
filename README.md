@@ -3,7 +3,7 @@ This package provides a feature selection method for sparse scRNA-seq data.
 # News
 
 # Requirements
-
+**bootstrapImputation** 
 # Installation
 
 # Method
