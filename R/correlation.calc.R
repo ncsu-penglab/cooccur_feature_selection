@@ -5,6 +5,8 @@
 #
 # @param marker seed gene name
 # @param mtx binary gene expression matrix
+# 
+# @ return dataframe with gene frequecnies and probabilities of co-occurrence
 
 correlation.calc <- function(
 marker, 
