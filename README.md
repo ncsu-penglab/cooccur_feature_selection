@@ -7,8 +7,8 @@ This package provides a feature selection method for sparse scRNA-seq data.
 # Installation
 
 # Method
- * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
+* Bullet list
+  * Nested bullet
+    * Sub-nested bullet etc
+  * Bullet list item 2
 # Example
