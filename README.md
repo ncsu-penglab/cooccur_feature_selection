@@ -36,7 +36,7 @@ dataset measured by silhoutte width and adjusted Rand Index (ARI).
 
 # Table II
 |             | Silhouette Width || ARI ||
-| :---------: | :--------------: |:--:|:---:|:---:|
+| :---------: | :--------------: ||:---:||
 | Dataset     | cooccur | VST   | cooccur | VST|
 
 
