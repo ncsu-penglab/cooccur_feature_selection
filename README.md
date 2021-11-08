@@ -2,8 +2,7 @@
 Feature selection using co-occurrence correlation improves cell clustering and embedding in single cell RNAseq data
 
 # Figure 1 
-![alt text](https://github.com/ncsu-penglab/cooccur_feature_selection/blob/master/Results/figure1_1.jpg?raw=true)
-* Fig. 1. Outlier UMI counts inflate standardized variance in PBMC 3k data. (a) Non zero UMI count distributions of DPH6 (HVG; red) and FCGR1B (LVF, teal). Both genes were detected in 61 out of 2700 cells. (b) Distribution of standardized variances. Colored lines indicate the value of FCGRB1 (teal) and DHP6 (red). (c) Standardized variances of 2,000 HVGs and 2,000 randomly sampled LVGs before and after converting the maximum UMI count to the median non zero UMI count. Red line indicates the minimum standardized variance of the original 2,000 HVGs.
+![alt text](https://github.com/ncsu-penglab/cooccur_feature_selection/blob/master/Results/figure1_1.jpg?raw=true) [Fig. 1. Outlier UMI counts inflate standardized variance in PBMC 3k data. (a) Non zero UMI count distributions of DPH6 (HVG; red) and FCGR1B (LVF, teal). Both genes were detected in 61 out of 2700 cells. (b) Distribution of standardized variances. Colored lines indicate the value of FCGRB1 (teal) and DHP6 (red). (c) Standardized variances of 2,000 HVGs and 2,000 randomly sampled LVGs before and after converting the maximum UMI count to the median non zero UMI count. Red line indicates the minimum standardized variance of the original 2,000 HVGs.]
 
 # Figure 2
 ![alt text](https://github.com/ncsu-penglab/cooccur_feature_selection/blob/master/Results/figure2_1.jpg?raw=true)
