@@ -38,5 +38,8 @@ dataset measured by silhoutte width and adjusted Rand Index (ARI).
 |             | Silhouette Width | Silhouette Width | ARI | ARI |
 | :---------: | :--------------: |:--:|:---:|:--:|
 | Dataset     | cooccur | VST | cooccur | VST|
-
-
+| Zhengmix4eq | 0.728 ± 0.21 | 0.643 ± 0.3 | 0.96 | 0.691 |  
+| Zhengmix4uneq | 0.669 ± 0.27 | 0.537 ± 0.41 | 0.962 | 0.833| 
+| Zhengmix8eq | 0.453 ± 0.45 | 0.337 ± 0.5  | 0.653 | 0.522 |
+* Table. II. Performance comparison of cell clustering using the co-occurrence (cooccur) vs. VST derived features
+in the FACS PBMC datasets measured by silhoutte width and adjusted Rand Index (ARI).
