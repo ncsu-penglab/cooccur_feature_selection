@@ -19,3 +19,13 @@ unused features (bottom, right).
 ![alt text](https://github.com/ncsu-penglab/cooccur_feature_selection/blob/master/Results/figure4_1.jpg?raw=true)
 * Fig. 4. Dimension reduction usingco-occurrence derived features improves cell clustering as measured by adjusted Rand Index and silhoutte coefficient in simulated sc-RNAseq data. (a) UMAP reductions of a simulated gene expression matrix with a de.prob equal to 0.3 and four cell groups. Reductions were generated using the cooccurrence (co-occur) (left) or VST (right) derived features. Cells are colored based on their ground-truth, simulated cell type. (b) Average difference in silhoutte coefficient and ARI between co-occurrence and VST derived features based cell reductions and clusterings. Dimension reduction and cell clustering were performed with Seurat’s UMAP and Louvain algorithms with the first 10 PCs and a resolution
 of 1.0.
+
+## Table 1 
+| Features | Silhouette Width | ARI |
+| :------: | :------: | :------: |
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+* Table. I. Performance comparison of the co-occurrence (co-occur)
+and VST or SCTransform (SCT) derived features in the PBMC 3k
+dataset measured by silhoutte width and adjusted Rand Index (ARI).
