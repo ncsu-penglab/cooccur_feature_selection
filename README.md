@@ -35,7 +35,7 @@ and VST or SCTransform (SCT) derived features in the PBMC 3k
 dataset measured by silhoutte width and adjusted Rand Index (ARI).
 
 # Table II
-|             | Silhouette Width | ARI | 
+|             | Silhouette Width || ARI ||
 | :---------: | :--------------: | :-: |
 | Dataset     | cooccur | VST   | cooccur | VST|
 
