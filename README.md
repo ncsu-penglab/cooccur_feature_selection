@@ -23,9 +23,13 @@ of 1.0.
 ## Table 1 
 | Features | Silhouette Width | ARI |
 | :------: | :------: | :------: |
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| VST ⋂ cooccur | 0.366±0.44 | 0.627±0.02 |
+| cooccur ⊄ VST | 0.268±0.44 | 0.553±0.04 |
+| VST ⊄ cooccur | -0.083±0.29 | 0.215±0.01 |
+| SCT ⋂ cooccur | 0.392±0.45 | 0.668±0.03 |
+| cooccur ⊄ SCT | 0.213±0.44 | 0.518±0.02 |
+| SCT ⊄ cooccur | 0.02±0.32 | 0.333±0.07 |
+| random | -0.141±0.24 | 0.186±0.03 |
 * Table. I. Performance comparison of the co-occurrence (co-occur)
 and VST or SCTransform (SCT) derived features in the PBMC 3k
 dataset measured by silhoutte width and adjusted Rand Index (ARI).
